@@ -1,3 +1,7 @@
+
+![logotransparant (1)](https://github.com/samfleur/EDIC_PLC/assets/54836951/230b4d6a-2375-41c1-9a36-6df19019ba99)
+
+
 ## PLCprogramv1
 
 Beginsel, eerste versie
