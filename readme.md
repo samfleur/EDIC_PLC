@@ -2,6 +2,16 @@
 ![logotransparant (1)](https://github.com/samfleur/EDIC_PLC/assets/54836951/230b4d6a-2375-41c1-9a36-6df19019ba99)
 
 
+## PLCprogramv2
+
+Selectie van potmeter afhankelijk van status:
+Altijd 100, behalve bij status M7, dan snelheid van de potmeter.
+
+Local start en stop.
+Selectie van remote en de aangehangen statussen richting winch cabinet.
+
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/e72101d0-76ac-4a8a-8b6c-9fa10695ad0b)
+
 ## PLCprogramv1
 
 Beginsel, eerste versie
@@ -20,12 +30,3 @@ Beide schermen actief met een status (local / remote) en de (gewenste) snelheid 
 
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/ebd99798-918e-41fc-b873-9251d1de49f0)
 
-## PLCprogramv2
-
-Selectie van potmeter afhankelijk van status:
-Altijd 100, behalve bij status M7, dan snelheid van de potmeter.
-
-Local start en stop.
-Selectie van remote en de aangehangen statussen richting winch cabinet.
-
-![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/e72101d0-76ac-4a8a-8b6c-9fa10695ad0b)
