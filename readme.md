@@ -19,3 +19,13 @@ Analog input 1 (I7) → met een analog amplifier er tussen om te mappen tussen 1
 Beide schermen actief met een status (local / remote) en de (gewenste) snelheid van de pomp
 
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/ebd99798-918e-41fc-b873-9251d1de49f0)
+
+## PLCprogramv2
+
+Selectie van potmeter afhankelijk van status:
+Altijd 100, behalve bij status M7, dan snelheid van de potmeter.
+
+Local start en stop.
+Selectie van remote en de aangehangen statussen richting winch cabinet.
+
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/e72101d0-76ac-4a8a-8b6c-9fa10695ad0b)
