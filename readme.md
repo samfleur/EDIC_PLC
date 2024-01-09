@@ -3,7 +3,7 @@
 
 ## PLCprogramv5
 
-Paar versies verder, vrij succesvol tot nu toe. 
+Paar versies verder, vrij succesvol tot nu toe. Oh ja het zijn twee pagina's geworden, is blijkbaar een optie.
 To do:
 - scherm updates
 - lower & static released van winch (iets van set reset op static release en dan moet zodra lower binnen komt de brake van standby naar running)
