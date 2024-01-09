@@ -1,6 +1,17 @@
 
 ![logotransparant (1)](https://github.com/samfleur/EDIC_PLC/assets/54836951/230b4d6a-2375-41c1-9a36-6df19019ba99)
 
+## PLCprogramv5
+
+Paar versies verder, vrij succesvol tot nu toe. 
+To do:
+- scherm updates
+- lower & static released van winch (iets van set reset op static release en dan moet zodra lower binnen komt de brake van standby naar running)
+
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/4595e80d-a31b-4386-95e4-d43a7556de63)
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/b7a645b8-f697-4328-8757-c9c9b64ed784)
+
+
 
 ## PLCprogramv2
 
