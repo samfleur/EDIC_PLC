@@ -9,9 +9,13 @@ Goedemorgen, bij deze zijn het 4 pagina's geworden.
 - Bij een winch trip gaat ie automatisch naar running en volle snelheid
 - Als zowel de static brake en de pomp draaien in remote stopt ie ermee en gaat ie automatisch naar standby
 
-![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/e62c4108-cc38-4863-9d80-e5cb38abc4e9)
+### Local / Remote, Heater toggle, lamp test, trip situations including winch trip, 
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/1c11e373-c054-43c4-9f6e-c221d83f58b2)
+### Display updates
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/390750f1-bb13-43f6-ac17-78670ee6b2d7)
+### Local start / stop, F1 toggle between standby and running, safety trip during running
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/45435476-5996-4509-8b41-d2ec43b3a336)
+### Remote starting / stopping, lowering / hoisting, stopped / standby / running setting and starting of VFD
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/54723389-73cf-415a-b7ea-a1f50a81d6ce)
 
 
