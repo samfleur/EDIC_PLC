@@ -1,6 +1,20 @@
 
 ![logotransparant (1)](https://github.com/samfleur/EDIC_PLC/assets/54836951/230b4d6a-2375-41c1-9a36-6df19019ba99)
 
+
+## PLCprogramv7
+
+Goedemorgen, bij deze zijn het 4 pagina's geworden.
+- Alle scherm updates zijn toegevoegd
+- Bij een winch trip gaat ie automatisch naar running en volle snelheid
+- Als zowel de static brake en de pomp draaien in remote stopt ie ermee en gaat ie automatisch naar standby
+
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/e62c4108-cc38-4863-9d80-e5cb38abc4e9)
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/390750f1-bb13-43f6-ac17-78670ee6b2d7)
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/45435476-5996-4509-8b41-d2ec43b3a336)
+![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/54723389-73cf-415a-b7ea-a1f50a81d6ce)
+
+
 ## PLCprogramv5
 
 Paar versies verder, vrij succesvol tot nu toe. Oh ja het zijn twee pagina's geworden, is blijkbaar een optie.
@@ -10,7 +24,6 @@ To do:
 
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/4595e80d-a31b-4386-95e4-d43a7556de63)
 ![image](https://github.com/samfleur/EDIC_PLC/assets/54836951/b7a645b8-f697-4328-8757-c9c9b64ed784)
-
 
 
 ## PLCprogramv2
